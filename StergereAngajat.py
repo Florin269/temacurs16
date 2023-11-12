@@ -23,4 +23,4 @@ def stergere_angajat():
         
 
 
-stergere_angajat()
+# stergere_angajat()
