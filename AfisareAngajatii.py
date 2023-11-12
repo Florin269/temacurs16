@@ -10,4 +10,4 @@ def afisare_angajati():
             print(linie)
 
 
-afisare_angajati()
+# afisare_angajati()

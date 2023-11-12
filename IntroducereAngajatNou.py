@@ -22,4 +22,4 @@ def introducere_angajat():
 
         print(f'Angajatul {nume} {prenume} a fost adaugat cu succes')
 
-introducere_angajat()
+# introducere_angajat()
